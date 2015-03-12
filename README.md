@@ -11,7 +11,7 @@ An entry of the neologism dictionary has following 4 columns for each neologism.
 - Base form of Surface
 - Part-Of-Speech (POS) tags
 
-NEologd will cope with an occurrence of neologism instead of you.
+NEologd will cope with an occurrence of neologism of the world instead of you.
 
 ## For Japanese
 README.ja.md is written in Japanese.
