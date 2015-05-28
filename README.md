@@ -23,5 +23,10 @@ README.ja.md is written in Japanese.
     - Neologism dictionary for MeCab
         - https://github.com/neologd/mecab-ipadic-neologd
 
+- mecab-unidic-neologd
+    - a set of a seed data of system dictionary for adding entries of neologism to unidic-mecab and scripts to install the synthesized dictionary as a system dictionary of MeCab
+        - https://github.com/neologd/mecab-unidic-neologd
+
+
 ## Copyrights
 Copyright (c) 2015 Toshinori Sato (@overlast) All rights reserved.

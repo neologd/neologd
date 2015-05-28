@@ -18,5 +18,9 @@ NEologd はあなたの代わりにこの世における新語の発生に対処
     - MeCab のための新語辞書
         - https://github.com/neologd/mecab-ipadic-neologd
 
+- mecab-unidic-neologd
+    - UniDic にエントリを足して MeCab のシステム辞書としてインストールするためのシードデータとスクリプト群のセット
+        - https://github.com/neologd/mecab-unidic-neologd
+
 ## Copyrights
 Copyright (c) 2015 Toshinori Sato (@overlast) All rights reserved.
